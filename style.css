@@ -1,0 +1,35 @@
+body{
+    background-image: url('images/background.jpg');
+    color: #c4cfff;
+    text-align: center;
+    font-style: 'Palatino';
+  }
+  
+  .titre{
+    margin-top: 50px;
+    font-size: 30px;
+  }
+  
+  p{
+    margin-top: 20px;
+  }
+  
+  .tapis{
+    margin-left: 5%;
+    margin-right: 5%;
+    align-content: center;
+    transform: rotate(20deg);
+    height: 150px;
+    width: 75px;
+
+   
+  }
+
+  img{
+      height: 150px;
+      width: 75px;
+     transform: scale(0.5);
+
+
+
+  }
